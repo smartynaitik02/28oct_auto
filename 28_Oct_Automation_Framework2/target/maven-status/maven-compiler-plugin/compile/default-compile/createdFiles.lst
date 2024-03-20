@@ -1,0 +1,13 @@
+Com\Ecommerce\PageClasses\New_Registration.class
+Com\Ecommerce\PageClasses\TC_Ecommerce_Login_Page.class
+Com\Ecommerce\PageClasses\LoginTestCases.class
+Com\Ecommerce\Utilities\Genericutils.class
+Com\Ecommerce\Utilities\Listners.class
+Com\Ecommerce\Utilities\WaitUtils.class
+Com\Ecommerce\Configuration\Readconfiguration.class
+Com\Ecommerce\PageClasses\TC_Ecommerce_AddToCart.class
+Com\Ecommerce\Utilities\XLSUtils.class
+Com\Ecommerce\Utilities\Mytransfomer.class
+Com\Ecommerce\Utilities\RetryAnalyzer.class
+Com\Ecommerce\Utilities\ExtentReportTestNG.class
+Com\Ecommerce\BaseClass\Ecommerce_BaseClass.class
